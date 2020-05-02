@@ -1,5 +1,3 @@
-
-
 /*
  * Return a count of the total number of objects 'o' satisfying o.x == o.y.
  * 
@@ -13,6 +11,5 @@ for(let i=0;i<objects.length;i++){
         count++;
 }
 return count;
-
 }
 
