@@ -1,5 +1,3 @@
-
-
 function regexVar() {
     /*
      * Declare a RegExp object variable named 're'
@@ -12,4 +10,3 @@ function regexVar() {
      */
     return re;
 }
-
