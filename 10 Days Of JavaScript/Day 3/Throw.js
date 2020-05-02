@@ -1,5 +1,3 @@
-
-
 /*
  * Complete the isPositive function.
  * If 'a' is positive, return "YES".
