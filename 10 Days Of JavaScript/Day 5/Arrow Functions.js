@@ -1,5 +1,3 @@
-
-
 /*
  * Modify and return the array so that all even elements are doubled and all odd elements are tripled.
  * 
@@ -11,4 +9,3 @@ function modifyArray(nums) {
 
     return arr;
 }
-
