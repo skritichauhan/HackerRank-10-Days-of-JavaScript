@@ -1,5 +1,3 @@
-
-
 function getLetter(s) {
     let letter;
     // Write your code here
@@ -59,11 +57,6 @@ function getLetter(s) {
         case 'y':
                             
         case 'z':   letter='D';
-
-
-
-
     }
     return letter;
 }
-
