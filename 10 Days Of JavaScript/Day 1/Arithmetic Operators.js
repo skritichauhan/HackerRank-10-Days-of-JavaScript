@@ -29,4 +29,3 @@ function getPerimeter(length, width) {
     perimeter=2*(length+width);
     return perimeter;
 }
-
