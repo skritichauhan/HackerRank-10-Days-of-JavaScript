@@ -1,4 +1,3 @@
-
 function getMaxLessThanK(n, k)
 {
    let res=0,ans;
