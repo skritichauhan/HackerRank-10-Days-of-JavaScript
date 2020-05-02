@@ -1,5 +1,3 @@
-
-
 /*
  * Determine the original side lengths and return an array:
  * - The first element is the length of the shorter side
@@ -16,4 +14,3 @@ function sides(literals, ...expressions) {
     arr=[s1,s2];
     return arr.sort();
 }
-
