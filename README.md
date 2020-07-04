@@ -1,7 +1,11 @@
 # HackerRank-Solutions
 New to Programming ?
+
 Well, start learning programming and implementing basic to advanced programs with the help of my repository.
 This repository contains the solutions of the problems solved by me in the HackerRank Platform.
+
 All the best to your journey..
+
 Feel free to contribute to the repository.
-https://www.hackerrank.com/
+
+Link to the problems:https://www.hackerrank.com/
